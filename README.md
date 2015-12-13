@@ -1,2 +1,2 @@
 # API_implementation
-Basic API representation using Flask micro framework
+Basic API implementation using Flask micro framework
